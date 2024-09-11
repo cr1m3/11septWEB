@@ -9,6 +9,6 @@
         "lint:js": "eslint js",
         "lint:css": "stylelint css",
         "lint:html": "htmlhint **/*.html"
-        "build": "yarn run build"
+        "build": "npm run build"
     }
 }
