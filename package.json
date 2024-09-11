@@ -9,6 +9,5 @@
         "lint:js": "eslint js",
         "lint:css": "stylelint css",
         "lint:html": "htmlhint **/*.html"
-        "build": "npm run build"
     }
 }
